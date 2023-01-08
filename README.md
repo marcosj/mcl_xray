@@ -5,4 +5,4 @@ Xray mod for MineClone 2 or 5
 
 ### References
 - https://github.com/cornernote/minetest-xray
-- https://github.com/cornernote/minetest-xray
+- https://minetest.gitlab.io/minetest/
